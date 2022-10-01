@@ -12,7 +12,7 @@ Especializado en administración, automatización y desarrollo e implementación
 
 Durante los últimos años me he desempeñado como Coordinador de Sistemas teniendo a mi cargo el equipo de Tecnologías y la 
 Area de T.I, soy responsable principalmente del ERP y CRM, sistemas de control de acceso, desarrollo e implementación 
-de proyectos TI, administración de servidores Linux, administrador de base de datos en SQL y MySQL, capacitaciones y en los
+de proyectos TI, administración de servidores Linux, administrador de base de datos en SQL y PostgreSQL, capacitaciones y en los
 desarrollos siendo el SCRUM Master, también ocasionalmente doy soporte al equipo informático y hago instalaciones 
 de redes y CCTV. Mis principales logros han sido estabilizar y controlar el ERP, implementar el CRM, reducción de costos 
 en control de acceso, desarrollo de sistemas a la medida, desarrollo e implementación de APIS, pagos en línea 
