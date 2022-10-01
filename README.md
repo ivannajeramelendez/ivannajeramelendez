@@ -1,7 +1,7 @@
-- 👋 Soy Ivan Najera Melendez
+- 👋 Autor: Ivan Najera Melendez
 - 👀 Desarrollos Propios
-- 🌱 Ingeniero en Tecnologias de la Información
-- 📫 How to reach me ...
+- 🌱 Repo Oficial Pagina Vtesta
+- 📫 contacto@vtesta.info
 
 ## Sobre Mi
 
