@@ -12,7 +12,6 @@
 <samp>
 - 👋 Autor: Ivan Najera Melendez
 - 👀 Desarrollos Propios
-- 🌱 Repo Oficial Pagina Vtesta
 </samp>
 
 ## 🔥 Sobre Mi
